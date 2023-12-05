@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Mauricio Tomesani Furlan built the Música Azul app as a Free app. This SERVICE is provided by Mauricio Tomesani Furlan at no cost and is intended for use as is.
+Mauricio Tomesani Furlan built the URL Tracker Extension app as a Free app. This SERVICE is provided by Mauricio Tomesani Furlan at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
